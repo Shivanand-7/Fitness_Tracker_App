@@ -1,16 +1,17 @@
-# fitness_tracker
+# Fitness_Tracker_App
+A Flutter-based fitness tracking app designed to help track workouts and progress in real time and set fitness goals.
 
-A new Flutter project.
+The app serves as a fitness tracker which utilizes Flutter for building a platform that lets users track their overall fitness development along with their exercises and daily metrics and steps and calorie consumption.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# User Dashboard :
+  Displays user information and daily progress.
+# Activity Tracking
+  The Activity Tracking system keeps record of user activities which include walking, workouts and swimming.
+# Step Counter
+  The step counter screen shows users their total step count together with their burned calories and measured distance.
+# Workout Stats
+  The application records workout statistics which include measurement of time alongside heart rate as well as energy consumption and traveled distance.
+# Navigation
+  The application features a bottom navigation bar which functions as the custom interface for screen switching.
